@@ -9,7 +9,7 @@ Akash Sheladiya
 
 Prototypes: 
 
-<img src="https://imgur.com/a/cQYXHjf">
+<img src="https://i.imgur.com/iV2qPw4.png">
 
 
 
