@@ -13,13 +13,13 @@ Prototype:
  
 Features
 Must have:
-Categories, Type, Difficulty(20 hours)
-Score(10 hours)
-Timer for questions (20 hours)
+Categories(20 hours), Type(20 hours), Difficulty(20 hours),
+Score(10 hours),
+Timer for questions(20 hours)
 
 Nice to have:
-Favorite question system (10 hours)
-Recommendation of hot topics
+Favorite question system(10 hours),
+Recommendation of hot topics,
 Latest Questions 
 
 
@@ -33,7 +33,7 @@ Akash:
 Timer for questions (20 hours)
 
 
-APIs
+APIs:
 <a href="https://opentdb.com/">Open trivia database </a>
 
  
