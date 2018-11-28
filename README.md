@@ -7,86 +7,18 @@ Preyansh Kotecha
 Akash Sheladiya 
 
 
-Prototypes: 
+Prototype: 
 
 <img src="https://i.imgur.com/iV2qPw4.png">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-QUIZ APP
-
-Select a Category:
-Drop Down Menu ↓
- 
-
-Select Difficulty:
-Drop Down Menu ↓
- 
-
-Select Type:
-DropDown Menu ↓
-                  Screen 1 
-
-Questions: 
-?
-? ?
-
-
-      
-
-
-
-
-Options 
-A
-B
-C
-D
-
-
-
-
-
-
-              Screen 2 
-
-
-Your Score :
-                  50
-               Screen 3 
-
- 
- 
- 
- 
- 
- 
- 
  
 Features
 Must have:
 Categories, Type, Difficulty(20 hours)
 Score(10 hours)
 Timer for questions (20 hours)
+
 Nice to have:
 Favorite question system (10 hours)
 Recommendation of hot topics
@@ -101,6 +33,8 @@ Preyansh:
 Score (20 hours)
 Akash:
 Timer for questions (20 hours)
+
+
 APIs
 <a href="https://opentdb.com/">Open trivia database </a>
 
