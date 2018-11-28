@@ -8,6 +8,29 @@ Akash Sheladiya
 
 
 Prototypes: 
+
+<img src="https://imgur.com/a/cQYXHjf">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 QUIZ APP
 
