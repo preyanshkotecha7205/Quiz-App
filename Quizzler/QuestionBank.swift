@@ -7,35 +7,35 @@ class QuestionBank {
     
     init() {
         // Creating a quiz item and appending it to the list
-        let item = Question(text: "Valentine\'s day is banned in Saudi Arabia.", correctAnswer: true)
+        let item = Question(text: "SFSU was started in 1899.", correctAnswer: true)
         
         // Add the Question to the list of questions
         list.append(item)
         
         // skipping one step and just creating the quiz item inside the append function
-        list.append(Question(text: "A slug\'s blood is green.", correctAnswer: true))
+        list.append(Question(text: "SFSU had 50,000 students enrolled in Fall semester.", correctAnswer: false))
         
-        list.append(Question(text: "Approximately one quarter of human bones are in the feet.", correctAnswer: true))
+        list.append(Question(text: "There are 13 coffee shops on-campus.", correctAnswer: false))
         
-        list.append(Question(text: "The total surface area of two human lungs is approximately 70 square metres.", correctAnswer: true))
+        list.append(Question(text: "There are no parties at SFSU.", correctAnswer: true))
         
-        list.append(Question(text: "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.", correctAnswer: true))
+        list.append(Question(text: "One of the SFSU alumni donated 10 million dollars for SFSU.", correctAnswer: true))
         
-        list.append(Question(text: "In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.", correctAnswer: false))
+        list.append(Question(text: "Ceasar Chavez Student center opened in 1975.", correctAnswer: true))
         
-        list.append(Question(text: "It is illegal to pee in the Ocean in Portugal.", correctAnswer: true))
+        list.append(Question(text: "The average student acceptance rate is above 60% in SFSU.", correctAnswer: true))
         
-        list.append(Question(text: "You can lead a cow down stairs but not up stairs.", correctAnswer: false))
+        list.append(Question(text: "The current President of SFSU is Orlando Harris.", correctAnswer: false))
         
-        list.append(Question(text: "Google was originally called \"Backrub\".", correctAnswer: true))
+        list.append(Question(text: "The current chair of the Computer Science department is Dr. Bill Hsu", correctAnswer: false))
         
-        list.append(Question(text: "Buzz Aldrin\'s mother\'s maiden name was \"Moon\".", correctAnswer: true))
+        list.append(Question(text: "The mascot of SFSU is Sparty.", correctAnswer: false))
         
-        list.append(Question(text: "The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.", correctAnswer: false))
+        list.append(Question(text: "SFSU mascot was Golden Gaters before it eventually became gators", correctAnswer: true))
         
-        list.append(Question(text: "No piece of square dry paper can be folded in half more than 7 times.", correctAnswer: false))
+        list.append(Question(text: "SFSU graduation rate in 2017 was above 60%", correctAnswer: true))
         
-        list.append(Question(text: "Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.", correctAnswer: true))
+        list.append(Question(text: "SFSU has 200 student organizations on campus", correctAnswer: true))
     }
     
 }
